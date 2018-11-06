@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\CRM.Web.DataAccess.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\CRM.Web.DataAccess.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\CRM.Web.Models.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\CRM.Web.Models.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\obj\Debug\CRM.Web.DataAccess.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\obj\Debug\CRM.Web.DataAccess.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\obj\Debug\CRM.Web.DataAccess.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\NPOI.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\NPOI.OOXML.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebDataAccess\bin\Debug\NPOI.OpenXmlFormats.dll

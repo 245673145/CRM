@@ -1,0 +1,5 @@
+D:\Documents\Visual Studio 2015\Projects\CRM\WebEntity\bin\Debug\CRM.Web.Models.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebEntity\bin\Debug\CRM.Web.Models.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebEntity\obj\Debug\CRM.Web.Models.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebEntity\obj\Debug\CRM.Web.Models.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebEntity\obj\Debug\CRM.Web.Models.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.Logic.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.Logic.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.DataAccess.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.Models.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.DataAccess.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\CRM.Web.Models.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\obj\Debug\CRM.Web.Logic.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\obj\Debug\CRM.Web.Logic.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\obj\Debug\CRM.Web.Logic.pdb
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\NPOI.dll
+D:\Documents\Visual Studio 2015\Projects\CRM\WebLogic\bin\Debug\ICSharpCode.SharpZipLib.dll
